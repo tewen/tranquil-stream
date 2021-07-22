@@ -1,6 +1,6 @@
 {
   "name": "tranquil-stream",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Working with streams, keeping it simple.",
   "author": "Trevor Ewen",
   "license": "MIT",
